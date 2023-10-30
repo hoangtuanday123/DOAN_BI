@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-KEFRDN4.MARKETING_SALES_STAGE"
+  DTS:DTSID="{A1908023-B1EB-4DB9-B27B-74FBF3166C99}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-KEFRDN4;Initial Catalog=MARKETING_SALES_STAGE;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-DOAN_BI-{A1908023-B1EB-4DB9-B27B-74FBF3166C99}DESKTOP-KEFRDN4.MARKETING_SALES_STAGE;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

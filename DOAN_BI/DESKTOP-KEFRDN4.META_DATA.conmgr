@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-KEFRDN4.META_DATA"
+  DTS:DTSID="{9D967E43-46C4-4002-8386-C4F5095D60FC}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-KEFRDN4;Initial Catalog=META_DATA;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-DOAN_BI-{9D967E43-46C4-4002-8386-C4F5095D60FC}DESKTOP-KEFRDN4.META_DATA;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
